@@ -13,4 +13,4 @@ Step4: Add remote
 git remote add origin https://github.com/QuangMinhDao/learn-git.git -> origin là tên tự đặt
 
 Step5: push code
-git push origin develop -> chưa làm được do không nhập được pass
+git push origin develop -> đã ok
